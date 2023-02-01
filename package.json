@@ -1,0 +1,26 @@
+{
+  "name": "nordcloud-tech-assignment-network-speed",
+  "version": "1.0.0",
+  "description": "Nordcloud Tech assignment - Network speed",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ssteevooh/Nordcloud-Tech-assignment-Network-speed.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Steve Hommy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ssteevooh/Nordcloud-Tech-assignment-Network-speed/issues"
+  },
+  "homepage": "https://github.com/Ssteevooh/Nordcloud-Tech-assignment-Network-speed#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
