@@ -58,6 +58,4 @@ const findBestNetworkStationForDevice = (x, y, networkStationsWithSpeed) => {
     };
 };
 
-exports.calculateDistancesBetweenNetworkStationsAndDevice = calculateDistancesBetweenNetworkStationsAndDevice
-exports.calculateSpeedsOfNetworkStationsWithRespectToDevice = calculateSpeedsOfNetworkStationsWithRespectToDevice
-exports.findBestNetworkStationForDevice = findBestNetworkStationForDevice
+module.exports = { calculateDistancesBetweenNetworkStationsAndDevice, calculateSpeedsOfNetworkStationsWithRespectToDevice, findBestNetworkStationForDevice }
