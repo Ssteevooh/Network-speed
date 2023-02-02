@@ -6,4 +6,4 @@
 ---
 ## How to run unit test
 + To run all the tests you just have to type out the ***npm test*** command
-+ To run one specific test then type out ***npm test -- -t '<Description of the test>'***
++ To run one specific test then type out ***npm test -- -t '<>Description of the test<>'***
