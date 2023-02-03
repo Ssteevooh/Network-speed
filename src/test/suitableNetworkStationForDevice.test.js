@@ -1,6 +1,6 @@
 const { calculateDistancesBetweenNetworkStationsAndDevice,
     calculateSpeedsOfNetworkStationsWithRespectToDevice,
-    findBestNetworkStationForDevice } = require("../main/suitableNetworkStationForDevice.cjs");
+    findBestNetworkStationForDevice } = require("../main/suitableNetworkStationForDevice.js");
 
 describe("Distance between network station and device", () => {
     test.each([

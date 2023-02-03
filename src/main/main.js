@@ -1,7 +1,7 @@
 const { calculateDistancesBetweenNetworkStationsAndDevice,
     calculateSpeedsOfNetworkStationsWithRespectToDevice,
     findBestNetworkStationForDevice
-} = require('./suitableNetworkStationForDevice.cjs');
+} = require('./suitableNetworkStationForDevice.js');
 
 const devices = [
     [100, 100],
